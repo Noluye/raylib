@@ -1,6 +1,7 @@
 # Ignore generated files
 # ...
-
+*.vcxproj*
+bin-int/
 # Ignore VIM's backup generated files
 *.swp
 *.swo
